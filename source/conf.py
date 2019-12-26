@@ -68,5 +68,9 @@ html_static_path = [sphinx_rtd_theme.get_html_theme_path()]
 source_parsers = {
     '.md': CommonMarkParser,
 }
+
+# The suffix of source filenames.
 source_suffix = ['.rst', '.md']
 
+# The master toctree document.
+master_doc = 'index'
