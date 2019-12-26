@@ -6,12 +6,8 @@
 Welcome to kick-english's documentation!
 ========================================
 
-Contents
-
+Contents:
 .. toctree::
    :maxdepth: 2
-   :glob:
 
-   chapters/*
-   aboutme
-   roadmap
+   hello
